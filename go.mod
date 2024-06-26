@@ -1,4 +1,4 @@
-module github.com/segmentio/encoding
+module github.com/wandbly/encoding
 
 go 1.18
 
